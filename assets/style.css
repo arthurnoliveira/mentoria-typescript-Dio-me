@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center
+}
+
+button {
+  padding: 12px;
+  margin: 8px
+}
